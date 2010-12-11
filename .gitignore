@@ -1,3 +1,5 @@
+.fxpTemp/
+.metadata/
 */bin-release
 */bin-debug
 */html-template
