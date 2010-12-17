@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="components.TicTacTextInput"/>
+    <classEntry path="components.TicTacButton"/>
+    <classEntry path="components.TicTacGameBoardButton"/>
+    <classEntry path="PrivateData"/>
+    <classEntry path="components.TicTacGameCompleted"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
